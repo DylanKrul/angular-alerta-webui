@@ -29,7 +29,9 @@ table {
     background-color: #ffffff;
     font-weight: normal;
 }
-
+.navbar-nav li a {
+ line-height: 40px;
+}
 .logo {
     font-family: "Sonsie One";
     font-size: 26pt;
